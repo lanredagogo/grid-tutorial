@@ -45,6 +45,7 @@ aside {
     grid-area: aside;
     background-color: hsl(0, 0%, 100%);
     color: rgb(23, 23, 23);
+    width: 250px;
   
    
     
@@ -96,7 +97,7 @@ footer {
 
 nav > .my_journey, aside > .my_journey {
     color: rgba(0, 0, 0, 0.599);
-    font-size: 14px;
+    font-size: 13px;
         margin-top: 20px;
 }
 
